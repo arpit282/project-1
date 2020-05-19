@@ -105,7 +105,7 @@ The four plots that you will need to construct are shown below.
 
 ### Plot 3
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
+![plot of chunk unnamed-chunk-4](https://raw.githubusercontent.com/arpit282/coursera-exploratory-data-analysis-course-project-1/master/figure/unnamed-chunk-4.png) 
 
 
 ### Plot 4
