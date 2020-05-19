@@ -95,12 +95,12 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
+![plot of chunk unnamed-chunk-2](https://raw.githubusercontent.com/arpit282/coursera-exploratory-data-analysis-course-project-1/master/figure/unnamed-chunk-2.png) 
 
 
 ### Plot 2
 
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
+![plot of chunk unnamed-chunk-3](https://raw.githubusercontent.com/arpit282/coursera-exploratory-data-analysis-course-project-1/master/figure/unnamed-chunk-3.png) 
 
 
 ### Plot 3
